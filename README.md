@@ -6,7 +6,7 @@ GitHub는 README 본문 배경색을 직접 지정하지 않으므로, 배너 �
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFF8E7&height=210&section=header&text=김서윤&fontSize=48&fontColor=343434&desc=소프트웨어학과%20학생%20%7C%20웹%20개발과%20데이터%20기반%20서비스&descSize=16&descAlignY=72" alt="아이보리색 배너: 김서윤, 소프트웨어학과 학생" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFF8E7&height=210&section=header&text=채수혁&fontSize=48&fontColor=343434&desc=소프트웨어학과%20학생%20%7C%20웹%20개발과%20데이터%20기반%20서비스&descSize=16&descAlignY=72" alt="아이보리색 배너: 채수혁, 소프트웨어학과 학생" />
 
 </div>
 
